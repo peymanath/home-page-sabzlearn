@@ -66,7 +66,7 @@ function CourseCards() {
 					dashClass="border-gary-600 dark:border-secondary800"
 				/>
 
-				<div className="flex flex-wrap gap-3 justify-center">
+				<div className="flex flex-wrap gap-3 justify-between">
 					<CourseCard items={course} />
 				</div>
 			</div>
