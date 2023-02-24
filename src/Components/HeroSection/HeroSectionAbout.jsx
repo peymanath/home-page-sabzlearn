@@ -22,9 +22,9 @@ function HeroSectionAbout() {
 					</div>
 
 					<div className="flex flex-wrap gap-2 w-full justify-around">
-						<FeaturesHeroSection title="ساعت آموزش" data={DataHero.learning} />
-						<FeaturesHeroSection title="تعداد مدرس" data={DataHero.teacher} />
-						<FeaturesHeroSection title="تعداد دانشجو" data={DataHero.student} />
+						<FeaturesHeroSection title="ساعت آموزش" total={DataHero.learning} />
+						<FeaturesHeroSection title="تعداد مدرس" total={DataHero.teacher} />
+						<FeaturesHeroSection title="تعداد دانشجو" total={DataHero.student} />
 					</div>
 				</div>
 			</div>
