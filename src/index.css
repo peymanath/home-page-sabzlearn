@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: IranYekan;
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: local('IRANYekanRegular'), url(./Assets/Font/IRANYekanRegular.woff) format('woff');
+}
+
+* {
+    transition: color 0.2s ease-in-out ,background 0.2s ease-in-out, background-color 0.2s ease-in-out;
+}
+
+input {
+    @apply focus:border-none focus-visible:outline-none focus:placeholder:text-transparent
+}
