@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/home-page-sabzlearn/static/css/main.d17f9824.css",
-    "main.js": "/home-page-sabzlearn/static/js/main.9d3b739f.js",
+    "main.js": "/home-page-sabzlearn/static/js/main.d606c5a2.js",
     "static/media/person-is-working.jpg": "/home-page-sabzlearn/static/media/person-is-working.76098ae2d92747c6d311.jpg",
     "static/media/sabz-next.png": "/home-page-sabzlearn/static/media/sabz-next.0de74ffd618b0b94caf1.png",
     "static/media/sabz-redux.png": "/home-page-sabzlearn/static/media/sabz-redux.9648536383ffbee62821.png",
@@ -16,10 +16,10 @@
     "static/media/footer.svg": "/home-page-sabzlearn/static/media/footer.b20bfbc839f851e6a5e5.svg",
     "index.html": "/home-page-sabzlearn/index.html",
     "main.d17f9824.css.map": "/home-page-sabzlearn/static/css/main.d17f9824.css.map",
-    "main.9d3b739f.js.map": "/home-page-sabzlearn/static/js/main.9d3b739f.js.map"
+    "main.d606c5a2.js.map": "/home-page-sabzlearn/static/js/main.d606c5a2.js.map"
   },
   "entrypoints": [
     "static/css/main.d17f9824.css",
-    "static/js/main.9d3b739f.js"
+    "static/js/main.d606c5a2.js"
   ]
 }
