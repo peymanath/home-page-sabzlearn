@@ -1,4 +1,5 @@
 {
+  "homepage":"https://peymanath.github.io/home-page-sabzlearn",
   "name": "test-page-sabzlearn",
   "version": "0.1.0",
   "private": true,
@@ -36,6 +37,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "tailwindcss": "^3.2.7"
   }
 }
