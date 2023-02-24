@@ -10,6 +10,23 @@
     src: local('IRANYekanRegular'), url(./Assets/Font/IRANYekanRegular.woff) format('woff');
 }
 
+::-webkit-scrollbar {
+	width: 7px;
+}
+
+::-webkit-scrollbar-track {
+	border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #25282b49;
+	border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: #25282ba4;
+}
+
 * {
     transition: color 0.2s ease-in-out ,background 0.2s ease-in-out, background-color 0.2s ease-in-out;
 }
@@ -17,3 +34,4 @@
 input {
     @apply focus:border-none focus-visible:outline-none focus:placeholder:text-transparent
 }
+
