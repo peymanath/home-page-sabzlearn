@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/home-page-sabzlearn/static/css/main.d17f9824.css",
+    "main.js": "/home-page-sabzlearn/static/js/main.9d3b739f.js",
+    "static/media/person-is-working.jpg": "/home-page-sabzlearn/static/media/person-is-working.76098ae2d92747c6d311.jpg",
+    "static/media/sabz-next.png": "/home-page-sabzlearn/static/media/sabz-next.0de74ffd618b0b94caf1.png",
+    "static/media/sabz-redux.png": "/home-page-sabzlearn/static/media/sabz-redux.9648536383ffbee62821.png",
+    "static/media/sabz-react.png": "/home-page-sabzlearn/static/media/sabz-react.897414b14105b2d6be1a.png",
+    "static/media/sabz-git.jpg": "/home-page-sabzlearn/static/media/sabz-git.2c399ed79addfc05e02f.jpg",
+    "static/media/sabz-typeScript.jpg": "/home-page-sabzlearn/static/media/sabz-typeScript.cc47cc57e4410bb9a1a1.jpg",
+    "static/media/sabz-css.jpg": "/home-page-sabzlearn/static/media/sabz-css.8e9e1ca18a5ec408e8fb.jpg",
+    "static/media/IRANYekanRegular.woff": "/home-page-sabzlearn/static/media/IRANYekanRegular.3d4332ae92ad53dc8fb1.woff",
+    "static/media/stat-teacher.svg": "/home-page-sabzlearn/static/media/stat-teacher.a8ec559e5c454cef0e39.svg",
+    "static/media/stat-student.svg": "/home-page-sabzlearn/static/media/stat-student.88cb519dfcbb62615168.svg",
+    "static/media/stat-time.svg": "/home-page-sabzlearn/static/media/stat-time.fc6db0e26fb84173ab37.svg",
+    "static/media/footer.svg": "/home-page-sabzlearn/static/media/footer.b20bfbc839f851e6a5e5.svg",
+    "index.html": "/home-page-sabzlearn/index.html",
+    "main.d17f9824.css.map": "/home-page-sabzlearn/static/css/main.d17f9824.css.map",
+    "main.9d3b739f.js.map": "/home-page-sabzlearn/static/js/main.9d3b739f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d17f9824.css",
+    "static/js/main.9d3b739f.js"
+  ]
+}
